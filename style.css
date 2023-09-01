@@ -1,0 +1,29 @@
+
+h1 {
+    color:black;
+    font-family: 'Lato', sans-serif;
+    font-size: 700%;
+    margin-left:8%;
+
+}
+p  {font-family: 'Lato', sans-serif;
+    font-size: 150%;
+margin-left: 8%;
+margin-right: 500px;
+
+}
+
+h2  {
+    color:gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 230%;
+    margin-left: 8%;
+
+}
+
+pre{font-family: 'Lato', sans-serif;
+    font-size: 150%;
+margin-left: 8%;
+margin-right: 500px;
+
+}
